@@ -11,6 +11,15 @@ Follow this link to view this Project Live.
 **CRUD (create, read, update and delete)** Project built over Django which is Function Based View ModelForm CRUD Project.
 <br/>
 
+======== ***Language Used*** =========== <br/>
+Django <br/>
+HTML <br/>
+CSS <br/>
+BootStrap <br/>
+MySQL <br/>
+
+
+
 ======== ***1. Create [Add to the Database]*** =========== <br/>
 
 <img src="student/screenshots/add.png" width="750" height="550">
