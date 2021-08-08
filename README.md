@@ -2,7 +2,7 @@
 CRUD Project || Django || Python || MySQL
 
 ======== ***Project Live*** =========== <br/>
-**This Project is live on Heroku-- ** <br/>
+**This Project is live on Heroku** --- <br/>
 Follow this below link to view this Project Live.
 ***http://crud-project46.herokuapp.com/***
 
